@@ -11,14 +11,6 @@ Production companies are responsible for funding movies which they believe will 
 The data for this project is collected from The Movie Database (TMDb), source - Kaggle. The data is in two CSV files. The main dataset contains 5000 movies and 20 columns, while the second file contains information on movie cast and credits. The process of observing the dataset, manipulating it, and building a predictive model is described in the slides. 
 
 
-### Authors
-
-- Tommaso Ghisini
-- Pietro Marini
-- Gaspar Dugac
-- Georgi Angelchev
-- Matthew Thomas Cernicky
-- Usama Muhammad
 
 
 ### File Structure
